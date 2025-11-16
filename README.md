@@ -22,14 +22,14 @@ ________________________________________
 1.	Data Preprocessing & Augmentation
 o	Resize and normalize images
 o	Augmentation: rotation, zoom, horizontal/vertical flip
-2.	Model Development
+3.	Model Development
 o	CNN architecture from scratch
 o	Transfer learning using pre-trained models
 o	Fine-tuning for improved accuracy
-3.	Model Evaluation
+4.	Model Evaluation
 o	Compare metrics across architectures
 o	Select the best-performing model
-4.	Deployment
+5.	Deployment
 o	Build Streamlit app
 o	Load saved model and perform predictions
 ________________________________________
